@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dwightcs
-- 👀 I’m interested in learning more about coding as I complete my cs degree.
+- 👀 I’m interested in learning more about programming as I complete my cs degree.
 - 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on anything fun.
 - 📫 How to reach me on instagram @dwightsauce.
